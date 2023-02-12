@@ -1,0 +1,108 @@
+DESENVOLVIMENTO DE JOGOS DIGITAIS - 3° Periodo - Trabalho semestral 3.
+
+1 - PLAYER
+	1.1 - Criando sprite e objeto do player; - FEITO
+	1.2 - criando sistemas de movimentação; - FEITO
+	1.3 - melhorando o sistema de movimentaçõ; - FEITO
+	1.4 - Criando metodo atirar; - FEITO
+	1.5 - Fazendo tiro do player acertar o inimigo; - feito
+	1.6 - fazendo o tiro se distruir ao acertar o inimigo; - FEITO;
+
+2 - Ajustando a camera (view port) da room
+	2.1 - Criando uma viewport e camera pro jogo;	FEITO
+	2.2 - Ajustando as dimensões para a view seer grande e o viewport ser menor;	FEITO
+
+3 - Criando o tiro
+	3.1 - fazendo o player atirar; - FEITO
+	3.2 - Fazendo o tiro nascer grande e ficar pequeno no trajeto; FEITO
+
+4 - Criando inimigo
+	4.1 - Fazendo o inimigo ir pra frente; - feito
+
+5 - Fazendo o inimigo atirar
+	5.1 - Fazendo o inimigo atirar; - feito
+	5.2 - Fazendo o tiro ir rapido para baixo mas não mais rapido que o player; - Feito
+	5.3 -
+
+6 - Os tiros
+	6.1 - animação do tiro acertando o marginal; - FEITO
+	6.2 - Fazendo desaparecer apos a animação; FEITO
+	6.3 - Não criar o impacto ao sair da room; FEITO
+	6.4 - Destruindo o inimigo ao entrar em contato como tiro morrer;	feito
+		6.4.1 - Fazendo ele explodir ao levar um tiro;	FEITO
+		6.4.2 - Deixando o tiro do player visualmente bonito; - feito
+		  6.4.2.1 - Ajustando o tratamento de cores; - feito  
+		  6.4.2.2 - Fazendo a cor do tiro ser aleatoria; - feito 
+	6.5 - Deixando meis suave - feito
+	6.7 - brilho do tiro do inimigo - feito
+	6.8 - deixando as explosoes mais bonitas.- feito
+	
+7 - Pequenos ajustes parte I
+	7.1 - Fazendo o inimigo ser destruido ao sair da tela; - FEITO
+
+8 - Fundo
+	8.1 - criando um fundo e dando a ele movimento - feito
+	8.2 - crinado o parallax do fundo - feito
+	
+9 - Segundo inimigo
+	criando o segundo inimigo do jogo e importando a sprite dele;	-FEITO	
+	Fazendo ele mudar de direção no meio da sala; FEITO
+	Tiro indo em direção do player;FEITO
+	Fazendo o tiro apontar pro player;FEITO
+	
+10 - criação procedural de inimmigos
+	criando objeto controle - feito
+	tornando a criação dos inimigos aleatoria - feito
+	
+11 - criando sistema de niveis
+11.1 - Ganhando level quando atingir um determinado numero de pontos; 
+11.2 - criando um sistema pra analizar quantos inimigos precisam ser criados e criar;
+11.3 - Fazendo o player dar o 2° tiro quando atingir o nivel 2;
+
+12 - Criando inimigos mais fortes;
+12.1 - criando waves de inimigos;
+12.2 - criar as ondas quando todos os inimigos forem destruidos totalmente;
+
+13 - poweup
+13.1 - fazendo os power ups;
+
+14 - criando tiro automatico;
+14.1 - iniciando tiro automatico;
+14.2 - criando leveis para o tiro do player;
+14.3 - criando o tiro nivel 3
+14.4 - fazendo o inimigo dropar o intem;
+
+15 - fazendo o powerup mudar de direção
+
+16 - criando o escudo do player;
+16.1 - dando uma transparencia para o escudo;
+16.2 - criando e exibindo a vida do player;
+
+17-  screenshake:
+Criando o objeto;
+Fazendo a tela tremer;
+Enfraquecendo a vibração;
+Fazendo ele se destruir;
+Garantindo que ao se destruir o x e o y do viewport esteja em suas posições iniciais;
+	
+18 - Ajustes gerais 2 -
+Randomizando tudo;
+Impedindo o player de sair da tela;
+Fazendo o escudo avisar que se destruiu para o player;
+19 - CRIANDO O CHEFE -
+	*Varios estados do boss;
+	*Fase invuneravel com recuperação de vida;
+		>>> (Fase criando minions agressivos);
+19.1 - Criando Objeto e Sprite do chefe; - Feito
+19.2 - Definindo os estados do boss; - Feito
+	19.2.1 - Criando a maquina de estados; -Feito
+	19.2.2 - Criando o o estado 1 - Feito
+19.3 - Criando o sistema de escolha de estado - Feito
+19.4 - Criando o 2 estado - Feito
+19.5 - criando o 3° estado; - Feito
+19.6 - criando o 4 estado; _feito
+19.7 - fazendo o boss ter a sprite normal novamente - Feito
+19.8 - criando o objeto do minion do boss - feito
+
+Minions -
+Fazendo eles iniciarem transparentes e irem ficando visiveis;

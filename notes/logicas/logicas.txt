@@ -1,0 +1,13 @@
+Criando os power Up's:
+
+Pode ser de 3 tipos:
+Velocidade -					.05		- Limite = 10;	//45%
+Tempo de espera -	10%	- Limite = 20;	//45%
+Level do tiro -				1			- Limite = 5;		//10%
+
+chance de dropar:
+
+inimigo 1 - chance de dropar de 20%
+
+
+Clamp - Ele checa se meu x ou y estao dentro desse intervalo;

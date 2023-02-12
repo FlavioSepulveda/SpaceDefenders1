@@ -1,0 +1,13 @@
+Sistema de parentesco:
+	Vamos dizer aos objetos que x ou y é pai dele, e o mesmo herdara toda a estrutura do anterior;
+	EX.:	Neste jogo o inimigo 2 herda os atributos do inimigo 1;
+	
+Variaveis de controle:
+	são chamadas de flags, elas sao responsaveis por controlar algo;
+	EX.: usei pra impedir o bug que fazia os inimigos 2 quererem trocar de direção;
+	Geralmente sao variaveis de sim e nao (booleana);
+	
+Quando cito determinado objeto no jogo tenho que ter certeza que o objeto existe;
+
+Parametros :
+inatance_depht, funciona como um parametro;
